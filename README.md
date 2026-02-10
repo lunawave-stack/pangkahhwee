@@ -4,10 +4,10 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-- 🔭 I’m currently working on Curating a GitHub portfolio that highlights my Data Science and Cybersecurity works.<br/>
-- 🌱 I’m currently learning Core concepts in Cybersecurity, Exploratory Data Analysis (EDA), predictive modeling through regression and classification, cluster analysis for unlabeled datasets and advanced data science methods such as deep learning.<br/>
-- 👯 I’m looking to collaborate on any of the presented Cybersecurity, Data-Science projects or open to other projects.<br/>
-- 🤔 I’m looking for help with Web-based front-end solutions for showcasing my Cybdersecurity, Data Science insights and results.<br/>
+- 🔭 I’m currently working on Curating a GitHub portfolio that highlights my Data Science and Machine Learning works.<br/>
+- 🌱 I’m currently learning Core concepts in Machine Learning, Exploratory Data Analysis (EDA), predictive modeling through regression and classification, cluster analysis for unlabeled datasets and advanced data science methods such as deep learning.<br/>
+- 👯 I’m looking to collaborate on any of the presented Machine Learning, Data-Science projects or open to other projects.<br/>
+- 🤔 I’m looking for help with Web-based front-end solutions for showcasing my Machine Learning, Data Science insights and results.<br/>
 - ⚡ Fun fact: I love jogging when I am not doing coding<br/>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
